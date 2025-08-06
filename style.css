@@ -99,14 +99,11 @@ h2 {
 @media (max-width: 768px) {
     /* Imagem de fundo, cabeçalho e preços */
 
-    
-    
     header {
         padding: 10px;
         
         & h1 {
-            
-            padding: 0px 0px 0px 22px;
+            padding: 8px 0px 4px 22px;
             font-size: 30px;
             letter-spacing: 8px;
             font-family: Bangers;
