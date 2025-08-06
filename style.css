@@ -126,10 +126,11 @@ h2 {
 #container2 {
     display: flex;
     gap: 10px;
-    height: 330px;
+    height: 320px;
     width: 95%;
     text-align: center;
     margin: auto;
+    padding: 6px;
     background-color: #c1b59eab;
     color: rgb(0, 0, 0);
 }
